@@ -11,5 +11,6 @@ Unfortunately, the original videos that Philip did seems to have been removed fr
 
 Final notes, this repo does not contain any .pak files, those must be obtained independently. It is also not intended to be an advanced source port, rather a learning tool for building and compling your own version of the original software, without the snags and pitfalls that the original code brings today. 
 
+Released with thanks & acknlowledgement to Philip Buuck for the original project and for ID Software for creating Quake in the 90s.
 
 ChotoTheBright - October 2022
